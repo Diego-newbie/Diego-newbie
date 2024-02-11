@@ -1,3 +1,2 @@
--  Hi, I’m Diego. Brazilian, 24 years old. 
+-  Hi, I’m Diego. Brazilian
 -  I’m an student of Computer Science
--  I’m currently learning Python
